@@ -1,0 +1,15 @@
+Utils\ConnectToSql.class
+Utils\InsertDataToSql.class
+StepObject\FunPageSteps.class
+StepObject\FoodPageSteps.class
+PageObject\FunPage.class
+StepObject\ManePageSteps.class
+Utils\Runner.class
+PageObject\RestPage.class
+Utils\SelectFromSql.class
+Utils\TestLister.class
+DataObject\RegistrationData.class
+PageObject\FoodPage.class
+StepObject\RestPageSteps.class
+PageObject\MainPage.class
+Utils\SqlCreate.class
