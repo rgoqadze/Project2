@@ -5,7 +5,7 @@ pipeline {
       parallel {
         stage('biuldproject') {
           steps {
-            sh 'mvn start'
+            sh 'mvn clean install'
           }
         }
 
